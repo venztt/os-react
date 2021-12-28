@@ -1,4 +1,4 @@
-name: Hosting Static Website
+name: ci-cd-demo
 
 on:
  push:

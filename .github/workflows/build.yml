@@ -1,5 +1,4 @@
-name: os-react
-
+name:
 on:
  push:
   branches:
